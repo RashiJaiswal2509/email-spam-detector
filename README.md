@@ -47,7 +47,7 @@ pip install pandas numpy scikit-learn streamlit
 
 2. Train the model
 
-python train_model.py
+python src/train_model.py
 
 3. Run Streamlit app
 
